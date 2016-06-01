@@ -1,0 +1,7 @@
+{
+  "name": "buzzjs-andres",
+  "version": "0.0.1",
+  "dependencies": {
+    "protractor": "^3.3.0"
+  }
+}
