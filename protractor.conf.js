@@ -1,6 +1,4 @@
 exports.config = {
   directConnect: true,
-  specs: [
-    'spec/*spec.js'
-  ]
+  specs: ['spec/*spec.js']
 };
